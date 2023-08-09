@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+
+@import url(https://fonts.googleapis.com/css2?family=Jost);
+
+$li-distance: 2.0em;
+
+/////////////////
+  
+.question li{
+    list-style-type: none;
+}
+
+.question li:before {
+        font-family: 'Font Awesome 6 Free';
+        content: "\f059";
+        display: inline-block;
+        text-align: center;
+        margin-left: calc(-1*$li-distance);
+        width: $li-distance;
+}
+
+.answer li{
+    list-style-type: none;
+}
+
+.answer li:before {
+        font-family: 'Font Awesome 6 Free';
+        content: "\f0eb";
+        display: inline-block;
+        text-align: center;
+        margin-left: calc(-1*$li-distance);
+        width: $li-distance;
+}
+
+.service-list {
+    font-size: 95%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+

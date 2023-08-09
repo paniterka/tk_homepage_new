@@ -1,0 +1,55 @@
+---
+title: "Consulting and freelance work"
+subtitle: "Hire me for an analysis or a data story, order a UX audit for analytics products, or book me as a consultant and sparing partner for your data project"
+---
+
+## Services 
+
+::: {.service-list}
+
+#### Data analysis and data journalism
+::: {.question}  
+- You have an interesting dataset but lack technical skills to perform an advanced analysis using data science methods.  
+- You have only an idea for an analysis but lack the data.  
+:::
+::: {.answer}
+- I look up the available datasets, perform the analysis and deliver you the analysis results or write the whole data story.  
+::: 
+
+#### Data visualization and storytelling
+::: {.question}  
+- You have interesting data, but struggle to present it as a beautiful and meaningful data visualization.
+:::
+::: {.answer}
+- I create static charts, visual reports and tailored visualizations based on your data.
+- I design dashboards, interactive articles and "explorative explanations".
+- I help you choose the right tool for your project.
+::: 
+
+
+#### UX audit and product design for analytics
+::: {.question}  
+- You developed an analytics product or a new report, but you are not happy about the usability.  
+- Your stakeholders are asking "So what?"  
+:::
+::: {.answer}
+- I evaluate analytics applications such as dashboards, reports and products in terms of usability and analytic accuracy.
+- I redesign existing analytics applications and reports.
+::: 
+
+:::
+
+
+## What you can expect
+
+**Collaborative, interactive way of working**: I heavily use methods coming from UX research, design thinking and other mapping techniques that engage different team members and stakeholders to merge the knowledge and align on the goals.
+
+**Embrace the problem, not the solution**: my focus is on humans involved and on a business case, not on a technology or a particular solution.
+
+**Fairness**: Down-to-the-earth approach, clear deliverables, transparent pricing.
+
+**Critical thinking**: I don't give in to a hype and offer you a critical, pragmatic view on ideas, solutions, products. 
+
+
+
+{{< fa none >}}  

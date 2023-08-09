@@ -1,0 +1,21 @@
+---
+title: "Teresa Kubacka, PhD"
+about: 
+    id: hero-heading
+    template: jolla
+    image: "img/IMG_7567_s.jpg"
+    image-shape: rectangle 
+    image-width: 50%
+    # links: 
+    #     - icon: twitter 
+    #       text: twitter 
+    #       href: https://twitter.com/paniterka_ch 
+    #     - icon: linkedin
+    #       text: linkedin 
+    #       href: https://www.linkedin.com/in/tkubacka/ 
+---
+
+::: {#hero-heading}
+Data science &#x2022; Data visualization &#x2022; Advanced analytics
+::: 
+

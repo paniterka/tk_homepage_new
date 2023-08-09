@@ -1,0 +1,26 @@
+---
+title: "Workshops, tutorials, keynotes"
+subtitle: "Hire me as a trainer or a workshop facilitator"
+---
+
+## Workshops and tutorials 
+
+::: {.service-list}
+#### Data visualization and storytelling
+I am an experienced teacher of data visualization and data storytelling. I offer several workshop packages tailored to the needs of analysts and developers, as well as a data storytelling workshop for a general audience.
+
+#### Interdisciplinary workshops
+I offer interdisciplinary workshops that build a bridge between different specializations, such as: 
+
+- Applied machine learning for academics.  
+- Scientific method and analytics for developers.   
+- UX for data scientists.  
+
+#### Custom workshops
+I will be happy to prepare and deliver a custom tailored workshop on a topic related to data science.
+
+#### Facilitation
+I facilitate discovery workshops for analytics using a variety of collaborative discovery methods such as Design Thinking and EventStorming.
+::: 
+
+## Keynotes and talks  
