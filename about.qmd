@@ -2,4 +2,40 @@
 title: "About me"
 ---
 
-I worked at X and now I'm Y. 
+## Short bio 
+
+I am currently working as a Senior Data Scientist at the ETH Library, in a team providing scientometric services for the ETH Zurich. Alongside, I am a freelance data scientist with Xurce AG, focusing on data visualization, workshops and ad-hoc consulting. I am also an external lecturer at the *Bachelor in AI* programme at the Lucerne University of Applied Sciences and Arts (HSLU). 
+
+My background is experimental physics--I have a PhD from ETH Zurich--and since 2017 I have been working as a data scientist in many different domains (insurance, pharma, tech). 
+
+I support women in tech and am a member of the organizational team of the Zurich Chapter of Women in Machine Learning and Data Science. 
+
+When not doing data, I am a musician in various trad/folk projects. 
+
+
+## Interesting topics I'm exploring at the moment 
+
+- how humans and organizations use data for communication - data visualizations, user interfaces, AI tools
+- how people understand data and implement data-driven products  
+- how AI and data are re-shaping academia and scholarly work 
+- availability of open knowledge and trustworthiness of data 
+- parallels and differences between mental models of physics and data science 
+- social history and women rights in Switzerland 
+- engaging in various educational initiatives about Matplotlib 
+
+
+<!-- 
+## Long bio 
+
+I have been freelancing since 2019 and currently work as a freelancer with Litix. I have worked for startups and small enterprises as a consultant, and for big corporations as a contractor. My main expertise is a front-mile of data science: discovering user needs and translating them into analytical solutions, mapping the needs onto requirements for technical tools, enabling data-driven culture by creating dashboards and other analytical services. I enjoy sharing my knowledge with others and am a big proponent of collaborative innovation, incorporating elements of design sprint methodology and other interactive methods into my workflow. I have also experience in writing grant proposals. Aditionally, I am involved in teaching and supervising activities in AI-related programs at HSLU and HWZ.
+
+Before I became an independent data scientist, I spent 2 years as a data scientist at La Mobiliere, a leading Swiss insurance company. There I worked on projects involving computer vision, NLP and data mining for improvement of internal processes. I co-authored the technical outline and timeline for the deep learning PoC, done within an international collaboration, and managed the work during the PoC as a technical lead. I communicated the results to the C-level stakeholders, which led to further joint projects.
+
+I have a PhD in Physics from ETH Zurich. I consider having been trained as an experimental physicist as a fundament for the way I think and work as a data scientist. The most important skills I learnt are: following analytic rigor, being intellectually independent and communicating across the differences. As a physicist, I designed and performed experiments, and built theoretical models to explain experimental data. I applied statistics to real-world, biased and noisy data and developed new methods for data processing. Additionally, I participated in and managed work in international collaborations.
+
+My basic data science toolbox includes Python (Pandas, Scikit-Learn, Seaborn, Jupyter) and Keras/Tensorflow for deep learning. For data visualization, I reach to open source solutions such as matplotlib, vega or D3.js. Among cloud providers, I am the most famililar with Google Cloud ecosystem. As many transitioners from academia, in the past I used to work with MATLAB. I also create webpages using HTML/CSS and JAM stack.
+
+I am an avid story-teller and an enthusiast of data visualization. In the past I used to write and edit articles about astronomy, popular science and literature. Nowadays I occassionally publish on Medium and work on data stories and visual essays. I am also a member of Impact Hub Zurich and member of the Zurich organizing team of Women in Machine Learning in Data Science (WiMLDS).
+
+Last but not least, I play music. You can hear me doing jazzy Irish folk with Ean or playing weird old instruments in trad/balfolk projects. -->
+

@@ -1,9 +1,14 @@
 ---
 title: "Workshops, tutorials, keynotes"
-subtitle: "Hire me as a trainer or a workshop facilitator"
+subtitle: "Hire me as a trainer or speaker"
+format:
+  html:
+    toc: true
 ---
 
-## Workshops and tutorials 
+## Workshops and Training  
+
+### Offer 
 
 ::: {.service-list}
 #### Data visualization and storytelling
@@ -23,4 +28,52 @@ I will be happy to prepare and deliver a custom tailored workshop on a topic rel
 I facilitate discovery workshops for analytics using a variety of collaborative discovery methods such as Design Thinking and EventStorming.
 ::: 
 
-## Keynotes and talks  
+### Past workshops 
+
+My workshop and teaching experience includes: 
+
+- 3 semesters of teaching a 15-week data visualization course at HSLU with the curriculum and content developed by me, targeted for mid-bachelor-level data scientists 
+- 2 data visualization workshops for the participants of the TechFace Full-Stack Developer bootcamp 
+- Crash-course on data visualization for scientific communication, organized by AMP ETH Zurich for the physics PhD students and postdocs
+- Data visualization workshop for a broad audience during the Open Hub Days 2020 at Impact Hub Zurich [watch online](#vid-impacthub) 
+- Teaching Quarto for scientific communication: [Coffee Lecture at the ETH Library](#vid-coffee-quarto) and Research Data Management Summer School 2023 
+- A half-day data storytelling course at the CAS "AI Operations", run by HWZ Zurich, targeted for experienced data professionals
+- [Workshop on statistical feature engineering](https://appliedmldays.org/events/amld-epfl-2021/workshops/back-to-the-feature-boost-your-ml-model-with-statistical-feature-engineering) together with Magdalena Surówka at Applied Machine Learning Days 2021 in Lausanne 
+- 2-day workshop on machine learning for scientists for one of the leading astrophysics labs in the UK 
+- Multiple workshops co-prepared and co-run together with the WiMLDS Zurich 
+- Many internal workshops led at a client site e.g. as part of the requirements collection process 
+
+I am constantly improving my skills by attending workshops myself, e.g. Design Sprint training by [DAY8](https://day8.io/), UX and Design Thinking workshops by [Bonanza Design](https://www.bonanza-studios.com/), Problem Framing Training by [Design Sprint Academy](https://www.designsprint.academy/), EventStorming Remote Modelling by [Avanscoperta](https://www.avanscoperta.it). 
+
+## Keynotes and Talks  
+
+
+## Watch Online  
+
+:::  {.video-centered #vid-impacthub} 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1_xEFo2OJM?si=Y2lzjKRA5fhk7_5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption class="figure-caption">Workshop at Impact Hub Zurich, 2020</figcaption>
+::: 
+
+
+:::  {.video-centered} 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TsEQHyBU1N0?si=9Bzvfeaxpsp2pr8j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption class="figure-caption">Talk on the Swiss edition of World Usability Days, 2020</figcaption>
+::: 
+
+:::  {.video-centered} 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vjQIaepijbE?si=P7GZVAY_99ui_BAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption class="figure-caption">NormConf Lightning Talk, 2022</figcaption>
+::: 
+
+:::  {.video-centered #vid-coffee-quarto} 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l204f-lsuDo?si=wNXxB-my9oOZVS5S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption class="figure-caption">Coffee Lecture at the ETH Library, 2022</figcaption>
+::: 
+
+
+:::  {.video-centered} 
+<iframe width="560" height="315" src="https://video.ethz.ch/etc/designs/mmp/video/player.html?id=90baa469-f65d-4f9f-99c6-01d8e2e163de" frameborder="0" allowfullscreen></iframe>
+<figcaption class="figure-caption">An impulse lecture about AI in Academia at the ETH Library, 2023 (in German) [link](https://video.ethz.ch/events/2023/learn_and_talk/90baa469-f65d-4f9f-99c6-01d8e2e163de.html)</figcaption>
+::: 

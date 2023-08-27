@@ -1,13 +1,66 @@
 ---
-title: "Writing and other media"
+title: "Writing"
+subtitle: Essays, data stories, tutorials, interviews
+format:
+  html:
+    toc: true
 ---
 
 ## Writing 
 
+### Opinions, essays
+I occasionally write on the Substack [Lookalikes and Meanders](https://lookalikes.substack.com/). See for example: 
 
+- 29.01.2023: *"Publish-or-perish" and ChatGPT: a dangerous mix* [Substack](https://lookalikes.substack.com/p/publish-or-perish-and-chatgpt-a-dangerous)
 
-## Podcasts 
+### Social media 
+A selection of my Twitter/X threads, mostly reporting on critical assessment of chatbots as tools for research work: 
 
+- 05.12.2022: ChatGPT hallucinates scientific references [Threadreader](https://threadreaderapp.com/thread/1599893718214901760.html). This thread was one of the very first reports on this that got caught up by the wide public and has been mentioned in [Wikipedia](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)) 
+- 17.12.2022: ChatGPT, paper mills and fake journals [Threadreader](https://threadreaderapp.com/thread/1603930065728839683.html) 
+- 07.01.2023: Chatbots vs knowledge management [Threadreader](https://threadreaderapp.com/thread/1611801002415632385.html)
+- 10.07.2023: Code Interpreter doesn't see problems with racially-biased variables [Threadreader](https://threadreaderapp.com/thread/1678507402100895749.html) 
+- 01.08.2023: Scopus AI - a chatbot containing humanity's knowledge? [Threadreader](https://threadreaderapp.com/thread/1686434387095654400.html)  
 
+### Data stories 
+A selection of data stories:  
+
+- 12.2019: *Mount Mid-Life Crisis* [Medium](https://towardsdatascience.com/frostbite-stories-part-1-mount-middle-life-crisis-97df574d58d7) - uncovering insights from the Himalayan Database 
+- 12.2019: *A story told through a heatmap* [Kaggle](https://www.kaggle.com/code/tkubacka/a-story-told-through-a-heatmap/notebook) - Winner of the Kaggle 2019 Data Science Survey
+- 10.2019: *Ironman World Championship: Game of skill - game of luck* [Self-hosted](https://ironmanbyluck.netlify.app/) - my experiment with clicky-scrolly form using a Makeover Monday dataset
+- 10.2019: *Top 20 CO2 polluters visualized* [Medium](https://towardsdatascience.com/the-top-20-co%E2%82%82-polluters-visualized-6a5fa435e108) - looking for patterns behind the emissions and revenues of companies identified by The Guardian as the biggest CO2 polluters 
+- 04.2019: *Beyond the bar plot: visualizing gender inequality in science* [Medium](https://medium.com/towards-data-science/beyond-the-bar-plot-visualizing-gender-inequality-in-science-7d77f5a01953) - a chart-makeover exercise. I have learned so much more about dataviz since then...  
+
+### Scientific writing 
+
+I am increasingly engaging in research work within scientometrics:  
+
+- 07.2023: *How important are international collaborations for research in Switzerland and the UK?* [Blog post](https://yearofscientometrics.ethz.ch/how-important-are-international-collaborations-for-research-in-switzerland-and-the-uk/) - a write-up of our article in "Qualität in der Wissenschaft" 01/2023 (contact me to get a copy of the original article in German)
+- 2023-...: every few months we publish a report about the project "Towards Open Bibliometric Indicators" (TOBI), which I'm a lead of. See on the [TOBI Website](https://eth-library.github.io/tobi/)
+
+There is also a selection of my work in physics available online: 
+
+- I am a first author of the [article published in Science in 2014](https://www.science.org/doi/10.1126/science.1242862), which work was part of my PhD. 
+- My [PhD Thesis](https://www.research-collection.ethz.ch/handle/20.500.11850/119948) is available through the Research Collection of ETH Zurich. Besides physics, the appendix discusses some of the limitations of PCA applied on noisy data, and shows dashboards for data quality monitoring in 2D experimental scans. 
+- In the ancient times (2003-2011) I used to be an author and editor of a leading Polish astronomy news platform, [AstroNET](https://news.astronet.pl/index.php/author/teresa-kubacka/) 
+
+### Tutorials 
+I host a [blog with Python recipes](https://pythonviz.blog/) and an [awesome-matplotlib repository](https://github.com/paniterka/awesome-matplotlib/), where I collect useful snippets as well as longer-form tutorials. 
 
 ## Interviews 
+
+- 08.2023: I was a guest on the ["Unchain your mind" podcast](https://u-y-m.ch/#podcast), in the episode *Wer entscheidet, welche Werte ein System vertritt?* (in German). Listen to it below or on [Spotify](https://open.spotify.com/episode/7AL3Ez3w2AajTCXtpn3Gyi?si=fc7feb260f064449): 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1579956378&color=%2364543c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-94610238" title="Unchain Your Mind" target="_blank" style="color: #cccccc; text-decoration: none;">Unchain Your Mind</a> · <a href="https://soundcloud.com/user-94610238/29-unchain-your-mind-mit-teresa-kubacka" title="#29 Unchain Your Mind mit Teresa Kubacka - Wer entscheidet, welche Werte ein System vertritt?" target="_blank" style="color: #cccccc; text-decoration: none;">#29 Unchain Your Mind mit Teresa Kubacka - Wer entscheidet, welche Werte ein System vertritt?</a></div>
+<br/ >
+- 06.2023: I was interviewed for the *Jahrbuch der Marktforschung 2023*, published by the BVM Berufsverband Deutscher Markt- und Sozialforscher. I'm happy to provide the scan of the original on demand (in German or in English). 
+
+- 02.2023: I was interviewed for the podcast of Pascal Lago for SRF *«Lieber Chatbot, wie möchtest Du für Microsoft Geld verdienen?* (in German) [Listen here](https://www.srf.ch/audio/trend/lieber-chatbot-wie-moechtest-du-fuer-microsoft-geld-verdienen?id=12341095)
+
+- 12.2021: Melanie Geiger asked me and Christian Hopp how to bring in and support women in data science. Read the whole interview on [SocietyByte](https://www.societybyte.swiss/2021/12/02/wie-man-mehr-frauen-fuer-die-datenwissenschaft-gewinnt/) (in German)
+
+## Music 
+
+I play guitar in a Swiss band [ÉAN](http://ean-music.ch/). If you like Irish folk with a jazzy twist, check our Soundcloud: 
+
+<iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1007185594&color=%2364543c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ean-irish-folk" title="EAN Irish Folk" target="_blank" style="color: #cccccc; text-decoration: none;">EAN Irish Folk</a> · <a href="https://soundcloud.com/ean-irish-folk/sets/ean-ep-2019" title="EAN EP 2019" target="_blank" style="color: #cccccc; text-decoration: none;">EAN EP 2019</a></div> 
+
