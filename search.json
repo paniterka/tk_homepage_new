@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am currently working as a Senior Data Scientist at the ETH Library, in a team providing scientometric services for the ETH Zurich. Alongside, I am a freelance data scientist with Xurce AG, focusing on data visualization, workshops and exploratory work and consulting. I am also an external lecturer at the Bachelor in AI programme at the Lucerne University of Applied Sciences and Arts (HSLU).\nMy background is experimental physics–I have a PhD from ETH Zurich–and since 2017 I have been working as a data scientist in many different domains (insurance, pharma, tech).\nI support women in tech and am a member of the organizational team of the Zurich Chapter of Women in Machine Learning and Data Science.\nWhen not doing data, I am a musician in various trad/folk projects."
+  },
+  {
+    "objectID": "about.html#short-bio",
+    "href": "about.html#short-bio",
+    "title": "About me",
+    "section": "",
+    "text": "I am currently working as a Senior Data Scientist at the ETH Library, in a team providing scientometric services for the ETH Zurich. Alongside, I am a freelance data scientist with Xurce AG, focusing on data visualization, workshops and exploratory work and consulting. I am also an external lecturer at the Bachelor in AI programme at the Lucerne University of Applied Sciences and Arts (HSLU).\nMy background is experimental physics–I have a PhD from ETH Zurich–and since 2017 I have been working as a data scientist in many different domains (insurance, pharma, tech).\nI support women in tech and am a member of the organizational team of the Zurich Chapter of Women in Machine Learning and Data Science.\nWhen not doing data, I am a musician in various trad/folk projects."
+  },
+  {
+    "objectID": "about.html#interesting-topics-im-exploring-at-the-moment",
+    "href": "about.html#interesting-topics-im-exploring-at-the-moment",
+    "title": "About me",
+    "section": "Interesting topics I’m exploring at the moment",
+    "text": "Interesting topics I’m exploring at the moment\n\nhow humans and organizations use data for communication - data visualizations, user interfaces, AI tools\nhow people understand data and implement data-driven products\n\nhow AI and data are re-shaping academia and scholarly work\navailability of open knowledge and trustworthiness of data\nparallels and differences between mental models of physics and data science\nsocial history and women rights in Switzerland\nengaging in various educational initiatives about Matplotlib"
+  },
+  {
+    "objectID": "consulting.html",
+    "href": "consulting.html",
+    "title": "Consulting and freelance work",
+    "section": "",
+    "text": "You have an interesting dataset but lack technical skills to perform an advanced analysis using data science methods.\n\nYou have only an idea for an analysis but lack the data.\n\n\n\n\n\nI look up the available datasets, perform the analysis and deliver you the analysis results or write the whole data story.\n\n\n\n\n\n\n\n\nYou have interesting data, but struggle to present it as a beautiful and meaningful data visualization.\n\n\n\n\nI create static charts, visual reports and tailored visualizations based on your data.\nI design dashboards, interactive articles and “explorative explanations”.\nI help you choose the right tool for your project.\n\n\n\n\n\n\n\nYou developed an analytics product or a new report, but you are not happy about the usability.\n\nYour stakeholders are asking “So what?”\n\n\n\n\n\nI evaluate analytics applications such as dashboards, reports and products in terms of usability and analytic accuracy.\nI redesign existing analytics applications and reports."
+  },
+  {
+    "objectID": "consulting.html#services",
+    "href": "consulting.html#services",
+    "title": "Consulting and freelance work",
+    "section": "",
+    "text": "You have an interesting dataset but lack technical skills to perform an advanced analysis using data science methods.\n\nYou have only an idea for an analysis but lack the data.\n\n\n\n\n\nI look up the available datasets, perform the analysis and deliver you the analysis results or write the whole data story.\n\n\n\n\n\n\n\n\nYou have interesting data, but struggle to present it as a beautiful and meaningful data visualization.\n\n\n\n\nI create static charts, visual reports and tailored visualizations based on your data.\nI design dashboards, interactive articles and “explorative explanations”.\nI help you choose the right tool for your project.\n\n\n\n\n\n\n\nYou developed an analytics product or a new report, but you are not happy about the usability.\n\nYour stakeholders are asking “So what?”\n\n\n\n\n\nI evaluate analytics applications such as dashboards, reports and products in terms of usability and analytic accuracy.\nI redesign existing analytics applications and reports."
+  },
+  {
+    "objectID": "consulting.html#what-you-can-expect",
+    "href": "consulting.html#what-you-can-expect",
+    "title": "Consulting and freelance work",
+    "section": "What you can expect",
+    "text": "What you can expect\nCollaborative, interactive way of working: I heavily use methods coming from UX research, design thinking and other mapping techniques that engage different team members and stakeholders to merge the knowledge and align on the goals.\nEmbrace the problem, not the solution: my focus is on humans involved and on a business case, not on a technology or a particular solution.\nFairness: Down-to-the-earth approach, clear deliverables, transparent pricing.\nCritical thinking: I don’t give in to a hype and offer you a critical, pragmatic view on ideas, solutions, products."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Let’s get in touch",
+    "section": "",
+    "text": "For inquiries regarding scientometrics, research assessment, open scholarly metadata, please contact me through ETH Library.\nFor all the other inquiries, you can reach out to me via:\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’ll be happy to hear from you!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Teresa Kubacka, PhD",
+    "section": "",
+    "text": "Data science • Data visualization • Advanced analytics"
+  },
+  {
+    "objectID": "speaking.html",
+    "href": "speaking.html",
+    "title": "Workshops, tutorials, keynotes",
+    "section": "",
+    "text": "I am an experienced teacher of data visualization and data storytelling. I offer several workshop packages tailored to the needs of analysts and developers, as well as a data storytelling workshop for a general audience.\n\n\n\nI offer interdisciplinary workshops that build a bridge between different specializations, such as:\n\nApplied machine learning for academics.\n\nScientific method and analytics for developers.\n\nUX for data scientists.\n\n\n\n\nI will be happy to prepare and deliver a custom tailored workshop on a topic related to data science.\n\n\n\nI facilitate discovery workshops for analytics using a variety of collaborative discovery methods such as Design Thinking and EventStorming.\n\n\n\n\n\nMy experience includes designing and teaching of:\n\nA 15-week data visualization course, targeted for mid-bachelor-level data scientists\nMultiple data visualization workshops for the participants of a JS developer bootcamp\nCrash-courses on data visualization for scientific communication\nData visualization workshops for a broad audience, eg. at Impact Hub Zurich\nCrash-courses of Quarto for scientific communication, eg. Coffee Lecture at the ETH Library\nA half-day data storytelling course at a CAS (Certificate of Advanced Studies) for experienced data professionals\nWorkshops on particular aspects of data science, eg. a Workshop on statistical feature engineering led together with Magdalena Surówka at Applied Machine Learning Days 2021 in Lausanne, or a 2-day workshop on machine learning for astrophysicists\nMultiple workshops co-prepared and co-run together with the WiMLDS Zurich\nMany internal workshops led at a client site e.g. as part of the requirements collection process\n\nI am constantly improving my skills by attending workshops myself, e.g. Design Sprint training by DAY8, UX and Design Thinking workshops by Bonanza Design, Problem Framing Training by Design Sprint Academy, EventStorming Remote Modelling by Avanscoperta."
+  },
+  {
+    "objectID": "speaking.html#workshops-and-training",
+    "href": "speaking.html#workshops-and-training",
+    "title": "Workshops, tutorials, keynotes",
+    "section": "",
+    "text": "I am an experienced teacher of data visualization and data storytelling. I offer several workshop packages tailored to the needs of analysts and developers, as well as a data storytelling workshop for a general audience.\n\n\n\nI offer interdisciplinary workshops that build a bridge between different specializations, such as:\n\nApplied machine learning for academics.\n\nScientific method and analytics for developers.\n\nUX for data scientists.\n\n\n\n\nI will be happy to prepare and deliver a custom tailored workshop on a topic related to data science.\n\n\n\nI facilitate discovery workshops for analytics using a variety of collaborative discovery methods such as Design Thinking and EventStorming.\n\n\n\n\n\nMy experience includes designing and teaching of:\n\nA 15-week data visualization course, targeted for mid-bachelor-level data scientists\nMultiple data visualization workshops for the participants of a JS developer bootcamp\nCrash-courses on data visualization for scientific communication\nData visualization workshops for a broad audience, eg. at Impact Hub Zurich\nCrash-courses of Quarto for scientific communication, eg. Coffee Lecture at the ETH Library\nA half-day data storytelling course at a CAS (Certificate of Advanced Studies) for experienced data professionals\nWorkshops on particular aspects of data science, eg. a Workshop on statistical feature engineering led together with Magdalena Surówka at Applied Machine Learning Days 2021 in Lausanne, or a 2-day workshop on machine learning for astrophysicists\nMultiple workshops co-prepared and co-run together with the WiMLDS Zurich\nMany internal workshops led at a client site e.g. as part of the requirements collection process\n\nI am constantly improving my skills by attending workshops myself, e.g. Design Sprint training by DAY8, UX and Design Thinking workshops by Bonanza Design, Problem Framing Training by Design Sprint Academy, EventStorming Remote Modelling by Avanscoperta."
+  },
+  {
+    "objectID": "speaking.html#keynotes-and-talks",
+    "href": "speaking.html#keynotes-and-talks",
+    "title": "Workshops, tutorials, keynotes",
+    "section": "Keynotes and Talks",
+    "text": "Keynotes and Talks\nI deliver keynotes, impulse lectures and take part in panel discussions on topics related to AI, data science, in particular when concerning the impact of data on society and the human side of data science.\nSome past assignments include:\n\nA keynote at Kongress der Deutschen Marktforschung 2023 in Frankfurt am Main, Germany - Human-made data and machine-generated content: How to remain positively skeptical in times of quantified world\n\nA lightning talk at the Open Data Forum 2023 in Zurich, Switzerland - Open Scholarly Metadata (slides here)\nAn invited talk at the Sino-Swiss Workshop on Research Integrity - The Role of Bibliometrics in Safeguarding Research Integrity: Perspectives of the Libraries\nAn impulse lecture at ETH Library Learn & Talk 2023 - Könnte eine KI das Studium an der ETH erfolgreich abschliessen (watch here)\nA lightning talk at the NormConf - How to stop crying when using Matplotlib (watch here)\nA talk on World Usability Days 2020 in Rapperswil, Switzerland - Explainable AI for ordinary humans (watch here)"
+  },
+  {
+    "objectID": "speaking.html#watch-online",
+    "href": "speaking.html#watch-online",
+    "title": "Workshops, tutorials, keynotes",
+    "section": "Watch Online",
+    "text": "Watch Online\n\n\n\n\nWorkshop at Impact Hub Zurich, 2020\n\n\n\n\n\n\nTalk on the Swiss edition of World Usability Days, 2020\n\n\n\n\n\n\nNormConf Lightning Talk, 2022\n\n\n\n\n\n\nCoffee Lecture at the ETH Library, 2022\n\n\n\n\n\n\nAn impulse lecture about AI in Academia at the ETH Library, 2023 (in German) link"
+  },
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing",
+    "section": "",
+    "text": "I occasionally write on the Substack Lookalikes and Meanders. See for example:\n\n29.01.2023: “Publish-or-perish” and ChatGPT: a dangerous mix Substack\n\n\n\n\nA selection of my Twitter/X threads, mostly reporting on critical assessment of chatbots as tools for research work:\n\n05.12.2022: ChatGPT hallucinates scientific references Threadreader. This thread was one of the very first reports on this that has caught attention of the general public and has been mentioned in Wikipedia\n17.12.2022: ChatGPT, paper mills and fake journals Threadreader\n07.01.2023: Chatbots vs knowledge management Threadreader\n10.07.2023: Code Interpreter doesn’t see problems with racially-biased variables Threadreader\n01.08.2023: Scopus AI - a chatbot containing humanity’s knowledge? Threadreader\n\n\n\n\nA selection of data stories:\n\n12.2019: Mount Mid-Life Crisis Medium - uncovering insights from the Himalayan Database\n12.2019: A story told through a heatmap Kaggle - Winner of the Kaggle 2019 Data Science Survey\n10.2019: Ironman World Championship: Game of skill - game of luck Self-hosted - my experiment with clicky-scrolly form using a Makeover Monday dataset\n10.2019: Top 20 CO2 polluters visualized Medium - looking for patterns behind the emissions and revenues of companies identified by The Guardian as the biggest CO2 polluters\n04.2019: Beyond the bar plot: visualizing gender inequality in science Medium - a chart-makeover exercise. I have learned so much more about dataviz since then…\n\n\n\n\nI am increasingly engaging in research work within scientometrics:\n\n07.2023: How important are international collaborations for research in Switzerland and the UK? Blog post - a write-up of our article in “Qualität in der Wissenschaft” 01/2023 (contact me to get a copy of the original article in German)\n2023-…: every few months we publish a report about the project “Towards Open Bibliometric Indicators” (TOBI), which I’m a lead of. See on the TOBI Website\n\nThere is also a selection of my work in physics available online:\n\nI am a first author of the article published in Science in 2014, which work was part of my PhD.\nMy PhD Thesis is available through the Research Collection of ETH Zurich. Besides physics, the appendix discusses some of the limitations of PCA applied on noisy data, and shows dashboards for data quality monitoring in 2D experimental scans.\nIn the ancient times (2003-2011) I used to be an author and editor of a leading Polish astronomy news platform, AstroNET\n\n\n\n\nI host a blog with Python recipes and an awesome-matplotlib repository, where I collect useful snippets as well as longer-form tutorials."
+  },
+  {
+    "objectID": "writing.html#writing",
+    "href": "writing.html#writing",
+    "title": "Writing",
+    "section": "",
+    "text": "I occasionally write on the Substack Lookalikes and Meanders. See for example:\n\n29.01.2023: “Publish-or-perish” and ChatGPT: a dangerous mix Substack\n\n\n\n\nA selection of my Twitter/X threads, mostly reporting on critical assessment of chatbots as tools for research work:\n\n05.12.2022: ChatGPT hallucinates scientific references Threadreader. This thread was one of the very first reports on this that has caught attention of the general public and has been mentioned in Wikipedia\n17.12.2022: ChatGPT, paper mills and fake journals Threadreader\n07.01.2023: Chatbots vs knowledge management Threadreader\n10.07.2023: Code Interpreter doesn’t see problems with racially-biased variables Threadreader\n01.08.2023: Scopus AI - a chatbot containing humanity’s knowledge? Threadreader\n\n\n\n\nA selection of data stories:\n\n12.2019: Mount Mid-Life Crisis Medium - uncovering insights from the Himalayan Database\n12.2019: A story told through a heatmap Kaggle - Winner of the Kaggle 2019 Data Science Survey\n10.2019: Ironman World Championship: Game of skill - game of luck Self-hosted - my experiment with clicky-scrolly form using a Makeover Monday dataset\n10.2019: Top 20 CO2 polluters visualized Medium - looking for patterns behind the emissions and revenues of companies identified by The Guardian as the biggest CO2 polluters\n04.2019: Beyond the bar plot: visualizing gender inequality in science Medium - a chart-makeover exercise. I have learned so much more about dataviz since then…\n\n\n\n\nI am increasingly engaging in research work within scientometrics:\n\n07.2023: How important are international collaborations for research in Switzerland and the UK? Blog post - a write-up of our article in “Qualität in der Wissenschaft” 01/2023 (contact me to get a copy of the original article in German)\n2023-…: every few months we publish a report about the project “Towards Open Bibliometric Indicators” (TOBI), which I’m a lead of. See on the TOBI Website\n\nThere is also a selection of my work in physics available online:\n\nI am a first author of the article published in Science in 2014, which work was part of my PhD.\nMy PhD Thesis is available through the Research Collection of ETH Zurich. Besides physics, the appendix discusses some of the limitations of PCA applied on noisy data, and shows dashboards for data quality monitoring in 2D experimental scans.\nIn the ancient times (2003-2011) I used to be an author and editor of a leading Polish astronomy news platform, AstroNET\n\n\n\n\nI host a blog with Python recipes and an awesome-matplotlib repository, where I collect useful snippets as well as longer-form tutorials."
+  },
+  {
+    "objectID": "writing.html#interviews",
+    "href": "writing.html#interviews",
+    "title": "Writing",
+    "section": "Interviews",
+    "text": "Interviews\n\n08.2023: I was a guest on the “Unchain your mind” podcast, in the episode Wer entscheidet, welche Werte ein System vertritt? (in German). Listen to it below or on Spotify: \n\nUnchain Your Mind · #29 Unchain Your Mind mit Teresa Kubacka - Wer entscheidet, welche Werte ein System vertritt?\n\n\n06.2023: I was interviewed for the Jahrbuch der Marktforschung 2023, published by the BVM Berufsverband Deutscher Markt- und Sozialforscher. I’m happy to provide the scan of the original on demand (in German or in English).\n02.2023: I was interviewed for an Swiss Radio SRF podcast «Lieber Chatbot, wie möchtest Du für Microsoft Geld verdienen? (in German)\n\n12.2022: I was interviewed for an NPR article about hallucinations in ChatGPT and their implications for academia\n12.2022: My thread about ChatGPT was featured in a Swiss news portal Watson (in German)\n12.2021: Melanie Geiger asked me and Christian Hopp how to bring in and support women in data science. Read the whole interview on SocietyByte (in German)"
+  },
+  {
+    "objectID": "writing.html#music",
+    "href": "writing.html#music",
+    "title": "Writing",
+    "section": "Music",
+    "text": "Music\nI play guitar in a Swiss band ÉAN. If you like Irish folk with a jazzy twist, check our Soundcloud:\n\n\n\nEAN Irish Folk · EAN EP 2019"
+  }
+]
