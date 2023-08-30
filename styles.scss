@@ -6,8 +6,11 @@ $li-distance: 2.0em;
 
 /////////////////
   
+/*-- scss:rules --*/
+
 .question li{
     list-style-type: none;
+    margin-bottom: 0lh;
 }
 
 .question li:before {
@@ -21,6 +24,7 @@ $li-distance: 2.0em;
 
 .answer li{
     list-style-type: none;
+    margin-bottom: 0lh;
 }
 
 .answer li:before {
@@ -52,4 +56,74 @@ iframe {
 
 .figure-caption {
     margin-bottom: 1lh !important;
+}
+
+li{
+    margin-bottom: 0.5lh;
+  }
+
+.sidebar li{
+    margin-bottom: 0;
+  }  
+
+.navbar li{
+    margin-bottom: 0;
+  }    
+
+.content a:not(.soundcloud) {
+
+    text-decoration: none;
+    // text-decoration-color: $strong-highlight;
+    // text-decoration-thickness: 0.1lh;
+    // text-decoration-style: dashed;
+    // text-underline-offset: -0.6lh;
+    // text-decoration-skip-ink: none;
+    // color: $strong-highlight;
+    background-color: $light-highlight;
+    border: 1px; 
+    border-style: solid; 
+    border-color: $light-highlight;
+    border-radius: 0.5em;
+    padding: 0.0em 0.2em;
+    font-size: 100%;
+
+    &:hover {
+        border-color: $strong-highlight;
+    }
+
+    &::before{
+        // content: "\29C9 \00A0 ";
+    }
+    &::after{
+        content: "\00A0\1f855";
+    }
+
+}
+
+#contact-icons {
+    margin-left: auto;
+    margin-right: auto;
+    // width: 50%;
+    text-align: center;
+    font-size: 300%;
+}
+
+#contact-icons a::after{
+    content: '';
+}
+
+#contact-icons li {
+    margin-bottom: 0;
+}
+
+.list-inline {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.list-inline > li {
+	display: inline-block; 
+    margin-left: 0.1em;
+    margin-right: 0.1em;
 }

@@ -5,7 +5,7 @@ about:
     template: jolla
     image: "img/IMG_7567_s.jpg"
     image-shape: rectangle 
-    image-width: 30%
+    image-width: 40%
     # links: 
     #     - icon: twitter 
     #       text: twitter 

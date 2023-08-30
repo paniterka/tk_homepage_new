@@ -3,8 +3,19 @@ title: "Let's get in touch"
 ---
 
 
-For inquiries regarding scientometrics, research assessment, open scholarly metadata, please contact me via ETH Library: [Book a librarian](https://library.ethz.ch/en/news-and-courses/advice-and-more/book-a-librarian/den-impact-ihrer-forschung-mit-bibliometrischen-daten-analysieren.html) or [email me directly](mailto:teresa.kubacka__(AT)__library.ethz.ch).
+For inquiries regarding scientometrics, research assessment, open scholarly metadata, please contact me through [ETH Library](mailto:teresa.kubacka__(AT)__library.ethz.ch).
 
-For all the other inquiries, you can reach out to me via [email](mailto:info__(AT)__teresa-kubacka.com) or [Linkedin](https://www.linkedin.com/in/tkubacka/). 
+For all the other inquiries, you can reach out to me via:
+
+<div id='contact-icons'>
+<ul class='list-inline'>
+    <li > <a href="mailto:info__(AT)__teresa-kubacka.com" >{{< fa at >}}</a> </li>
+    <li> <a href="https://www.linkedin.com/in/tkubacka/" >{{< fa brands linkedin-in >}}</a> </li>
+    <li> <a href="https://twitter.com/paniterka_ch" >{{< fa brands twitter >}}</a> </li>
+</ul>
+</div>
 
 I'll be happy to hear from you!   
+
+{{< fa none >}}  
+{{< fa brands none >}}

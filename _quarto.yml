@@ -22,10 +22,10 @@ website:
 format:
   html:
     theme: 
-      - cosmo
-      - styles.scss
+      light: [cosmo, base_colors.scss, styles.scss]
     toc: false
     mainfont: Jost
-
- 
-
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: references
+    anchor-sections: false
