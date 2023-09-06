@@ -1,0 +1,9 @@
+---
+title: "Impressum"
+---
+
+This website is done with [Quarto](https://quarto.org/). 
+
+The photo has been taken by Dr. Miklós Csontos. 
+
+Data about user visits to this page are captured using [GoatCounter](https://www.goatcounter.com/), which is a privacy-preserving traffic monitoring tool. No personal data is collected. 

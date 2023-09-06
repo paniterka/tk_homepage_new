@@ -94,26 +94,70 @@ li{
     &::before{
         // content: "\29C9 \00A0 ";
     }
-    &::after{
+    &::after{ 
         content: "\00A0\1f855";
+        color: $body-color !important;
     }
 
 }
 
-#contact-icons {
+.contact-icons {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 200%;
+}
+
+
+.contact-icons a{
+    width: 2em;
+    line-height: 2em;
+    // display: block; 
+
+}
+
+.contact-icons a::after{
+    content: '' !important;
+}
+
+.contact-icons li {
+    margin-bottom: 0;
+}
+
+
+.contact-button {
     margin-left: auto;
     margin-right: auto;
     // width: 50%;
     text-align: center;
-    font-size: 300%;
+    font-size: 1.5em;
+    padding-top: 0.5lh;
+    font-weight: bolder;
 }
 
-#contact-icons a::after{
-    content: '';
+
+.contact-button a{
+    // width: 2em;
+    line-height: 2em;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+    display: block; 
+
 }
 
-#contact-icons li {
+.contact-button a::after{
+    content: '' !important;
+}
+
+.contact-button li {
     margin-bottom: 0;
+}
+
+
+.list-inline-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 .list-inline {
@@ -126,4 +170,22 @@ li{
 	display: inline-block; 
     margin-left: 0.1em;
     margin-right: 0.1em;
+    padding: 0em 0.25em;
+
+    &::after {
+        content: '';//':';
+    }
+}
+
+
+@media (max-width:40em){
+
+    .list-inline > li{
+      display: block;
+     
+      &::after {
+        content: '';
+    }
+    }
+
 }

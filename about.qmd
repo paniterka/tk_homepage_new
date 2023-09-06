@@ -24,6 +24,13 @@ When not doing data, I am a musician in various trad/folk projects.
 - engaging in various educational initiatives about Matplotlib 
 
 
+<div class="contact-button">
+
+<ul class='list-inline'>
+    <li > [Contact me](contact.qmd) </li>
+</ul>
+</div>
+
 <!-- 
 ## Long bio 
 
@@ -38,4 +45,3 @@ My basic data science toolbox includes Python (Pandas, Scikit-Learn, Seaborn, Ju
 I am an avid story-teller and an enthusiast of data visualization. In the past I used to write and edit articles about astronomy, popular science and literature. Nowadays I occassionally publish on Medium and work on data stories and visual essays. I am also a member of Impact Hub Zurich and member of the Zurich organizing team of Women in Machine Learning in Data Science (WiMLDS).
 
 Last but not least, I play music. You can hear me doing jazzy Irish folk with Ean or playing weird old instruments in trad/balfolk projects. -->
-

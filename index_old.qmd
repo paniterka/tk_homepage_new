@@ -3,7 +3,7 @@ title: "Teresa Kubacka, PhD"
 about: 
     id: hero-heading
     template: jolla
-    image: "img/IMG_7567_final_s.jpg"
+    image: "img/IMG_7567_s.jpg"
     image-shape: rectangle 
     image-width: 40%
     # links: 
@@ -14,24 +14,8 @@ about:
     #       text: linkedin 
     #       href: https://www.linkedin.com/in/tkubacka/ 
 ---
-<!---
- 
+
 ::: {#hero-heading}
 Data science &#x2022; Data visualization &#x2022; Advanced analytics
 ::: 
- 
---->
 
-<div class=".list-inline-wrapper">
-<ul class='list-inline'>
-    <li>Data science</li>
-    <!---
- <li > :: </li> 
---->
-    <li>Data visualization</li>
-    <!---
- <li > :: </li> 
---->
-    <li>Advanced analytics</li>
-</ul>
-</div>

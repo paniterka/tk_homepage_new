@@ -17,6 +17,10 @@ website:
         text: Writing 
       - href: contact.qmd 
         text: Get in touch  
+  page-footer: 
+    center: 
+      - text: "Impressum"
+        href: impressum.qmd
 
 
 format:
@@ -29,3 +33,4 @@ format:
     link-external-newwindow: true
     email-obfuscation: references
     anchor-sections: false
+    include-after-body: traffic.html
