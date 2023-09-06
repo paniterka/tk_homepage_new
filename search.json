@@ -18,7 +18,7 @@
     "href": "about.html#interesting-topics-im-exploring-at-the-moment",
     "title": "About me",
     "section": "Interesting topics I’m exploring at the moment",
-    "text": "Interesting topics I’m exploring at the moment\n\nhow humans and organizations use data for communication - data visualizations, user interfaces, AI tools\nhow people understand data and implement data-driven products\n\nhow AI and data are re-shaping academia and scholarly work\navailability of open knowledge and trustworthiness of data\nparallels and differences between mental models of physics and data science\nsocial history and women rights in Switzerland\nengaging in various educational initiatives about Matplotlib"
+    "text": "Interesting topics I’m exploring at the moment\n\nhow humans and organizations use data for communication - data visualizations, user interfaces, AI tools\nhow people understand data and implement data-driven products\n\nhow AI and data are re-shaping academia and scholarly work\navailability of open knowledge and trustworthiness of data\nparallels and differences between mental models of physics and data science\nsocial history and women rights in Switzerland\nengaging in various educational initiatives about Matplotlib\n\n\n\n\nContact me"
   },
   {
     "objectID": "consulting.html",
@@ -46,11 +46,25 @@
     "href": "contact.html",
     "title": "Let’s get in touch",
     "section": "",
-    "text": "For inquiries regarding scientometrics, research assessment, open scholarly metadata, please contact me through ETH Library.\nFor all the other inquiries, you can reach out to me via:\n\n\n\n\n\n\n\n\n\n\n\n\n\nI’ll be happy to hear from you!"
+    "text": "For inquiries regarding scientometrics, research assessment, open scholarly metadata, please contact me through ETH Library.\nFor all the other inquiries, you can reach out to me via:\n\n\n\n\n\n\n\n\n\n\n\n\n\nI am part of Xurce AG: a consortium of freelancers providing services in data science, IT, analytics and geoinformation. Check out the offer of the other freelancers or get in touch in case you would be willing to join Xurce as an independent data professional.\nI’ll be happy to hear from you!"
+  },
+  {
+    "objectID": "impressum.html",
+    "href": "impressum.html",
+    "title": "Impressum",
+    "section": "",
+    "text": "This website is done with Quarto.\nThe photo has been taken by Dr. Miklós Csontos.\nData about user visits to this page are captured using GoatCounter, which is a privacy-preserving traffic monitoring tool. No personal data is collected."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Teresa Kubacka, PhD",
+    "section": "",
+    "text": "Data science\n\n\n\nData visualization\n\n\n\nAdvanced analytics"
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
     "title": "Teresa Kubacka, PhD",
     "section": "",
     "text": "Data science • Data visualization • Advanced analytics"
@@ -102,7 +116,7 @@
     "href": "writing.html#interviews",
     "title": "Writing",
     "section": "Interviews",
-    "text": "Interviews\n\n08.2023: I was a guest on the “Unchain your mind” podcast, in the episode Wer entscheidet, welche Werte ein System vertritt? (in German). Listen to it below or on Spotify: \n\nUnchain Your Mind · #29 Unchain Your Mind mit Teresa Kubacka - Wer entscheidet, welche Werte ein System vertritt?\n\n\n06.2023: I was interviewed for the Jahrbuch der Marktforschung 2023, published by the BVM Berufsverband Deutscher Markt- und Sozialforscher. I’m happy to provide the scan of the original on demand (in German or in English).\n02.2023: I was interviewed for an Swiss Radio SRF podcast «Lieber Chatbot, wie möchtest Du für Microsoft Geld verdienen? (in German)\n\n12.2022: I was interviewed for an NPR article about hallucinations in ChatGPT and their implications for academia\n12.2022: My thread about ChatGPT was featured in a Swiss news portal Watson (in German)\n12.2021: Melanie Geiger asked me and Christian Hopp how to bring in and support women in data science. Read the whole interview on SocietyByte (in German)"
+    "text": "Interviews\n\n08.2023: I was a guest on the “Unchain your mind” podcast, in the episode Wer entscheidet, welche Werte ein System vertritt? (in German). Listen to it below or on Spotify: \n\nUnchain Your Mind · #29 Unchain Your Mind mit Teresa Kubacka - Wer entscheidet, welche Werte ein System vertritt?\n\n\n06.2023: I was interviewed for the “Jahrbuch der Marktforschung 2023”, published by the BVM Berufsverband Deutscher Markt- und Sozialforscher (in German).\n02.2023: I was interviewed for an Swiss Radio SRF podcast «Lieber Chatbot, wie möchtest Du für Microsoft Geld verdienen? (in German)\n\n12.2022: I was interviewed for an NPR article about hallucinations in ChatGPT and their implications for academia\n12.2022: My thread about ChatGPT was featured in a Swiss news portal Watson (in German)\n12.2021: Melanie Geiger asked me and Christian Hopp how to bring in and support women in data science. Read the whole interview on SocietyByte (in German)"
   },
   {
     "objectID": "writing.html#music",
