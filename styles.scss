@@ -8,6 +8,11 @@ $li-distance: 2.0em;
   
 /*-- scss:rules --*/
 
+
+.question ul {
+    padding-left: calc($li-distance - 0.5em);
+}
+
 .question li{
     list-style-type: none;
     margin-bottom: 0lh;
@@ -20,6 +25,10 @@ $li-distance: 2.0em;
         text-align: center;
         margin-left: calc(-1*$li-distance);
         width: $li-distance;
+}
+
+.answer ul {
+    padding-left: calc($li-distance - 0.5em);
 }
 
 .answer li{
