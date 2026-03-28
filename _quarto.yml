@@ -14,7 +14,7 @@ website:
       - href: speaking.qmd
         text: Workshops and talks 
       - href: writing.qmd 
-        text: Writing 
+        text: Writing and dataviz
       - href: contact.qmd 
         text: Get in touch  
   page-footer: 

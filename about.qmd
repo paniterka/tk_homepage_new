@@ -4,7 +4,7 @@ title: "About me"
 
 ## Short bio 
 
-I am currently working as a Senior Data Scientist at the ETH Library, in a team providing scientometric services for the ETH Zurich. Alongside, I am a freelance data scientist with Xurce AG, focusing on data visualization, workshops and exploratory work and consulting. I am also an external lecturer at the *Bachelor in AI* programme at the Lucerne University of Applied Sciences and Arts (HSLU). 
+I am currently working as a Senior Data Scientist at the ETH Library, in a team providing scientometric services for the ETH Zurich. Alongside, I am a freelance data scientist with Xurce AG, focusing on data visualization, workshops and exploratory work and consulting. I am also an external lecturer at the *Bachelor in AI* programme at the Lucerne University of Applied Sciences and Arts (HSLU), where I am teaching a recurring semester course *Data Visualization for AI and Machine Learning*. 
 
 My background is experimental physics--I have a PhD from ETH Zurich--and since 2017 I have been working as a data scientist in many different domains (insurance, pharma, tech). 
 
@@ -19,8 +19,8 @@ When not doing data, I am a musician in various trad/folk projects.
 - how people understand data and implement data-driven products  
 - how AI and data are re-shaping academia and scholarly work 
 - availability of open knowledge and trustworthiness of data 
-- parallels and differences between mental models of physics and data science 
-- social history and women rights in Switzerland 
+<!-- - parallels and differences between mental models of physics and data science  -->
+<!-- - social history and women rights in Switzerland  -->
 - engaging in various educational initiatives about Matplotlib 
 
 

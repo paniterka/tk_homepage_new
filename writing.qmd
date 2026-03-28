@@ -1,9 +1,10 @@
 ---
-title: "Writing"
+title: "Writing and data visualization"
 subtitle: Essays, data stories, tutorials, interviews
 format:
   html:
     toc: true
+lightbox: true
 ---
 
 ## Writing 
@@ -12,6 +13,11 @@ format:
 I occasionally write on the Substack [Lookalikes and Meanders](https://lookalikes.substack.com/). See for example: 
 
 - 29.01.2023: *"Publish-or-perish" and ChatGPT: a dangerous mix* [Substack](https://lookalikes.substack.com/p/publish-or-perish-and-chatgpt-a-dangerous)
+
+A selection of my essays published elsewhere: 
+
+- 21.02.2024: *"Guest Post — There is More to Reliable Chatbots than Providing Scientific References: The Case of ScopusAI"* [Scholarly Kitchen Blog](https://scholarlykitchen.sspnet.org/2024/02/21/guest-post-there-is-more-to-reliable-chatbots-than-providing-scientific-references-the-case-of-scopusai/)
+
 
 ### Social media 
 A selection of my Twitter/X threads, mostly reporting on critical assessment of chatbots as tools for research work: 
@@ -22,19 +28,12 @@ A selection of my Twitter/X threads, mostly reporting on critical assessment of 
 - 10.07.2023: Code Interpreter doesn't see problems with racially-biased variables [Threadreader](https://threadreaderapp.com/thread/1678507402100895749.html) 
 - 01.08.2023: Scopus AI - a chatbot containing humanity's knowledge? [Threadreader](https://threadreaderapp.com/thread/1686434387095654400.html)  
 
-### Data stories 
-A selection of data stories:  
-
-- 12.2019: *Mount Mid-Life Crisis* [Medium](https://towardsdatascience.com/frostbite-stories-part-1-mount-middle-life-crisis-97df574d58d7) - uncovering insights from the Himalayan Database 
-- 12.2019: *A story told through a heatmap* [Kaggle](https://www.kaggle.com/code/tkubacka/a-story-told-through-a-heatmap/notebook) - Winner of the Kaggle 2019 Data Science Survey
-- 10.2019: *Ironman World Championship: Game of skill - game of luck* [Self-hosted](https://ironmanbyluck.netlify.app/) - my experiment with clicky-scrolly form using a Makeover Monday dataset
-- 10.2019: *Top 20 CO2 polluters visualized* [Medium](https://towardsdatascience.com/the-top-20-co%E2%82%82-polluters-visualized-6a5fa435e108) - looking for patterns behind the emissions and revenues of companies identified by The Guardian as the biggest CO2 polluters 
-- 04.2019: *Beyond the bar plot: visualizing gender inequality in science* [Medium](https://medium.com/towards-data-science/beyond-the-bar-plot-visualizing-gender-inequality-in-science-7d77f5a01953) - a chart-makeover exercise. I have learned so much more about dataviz since then...  
 
 ### Scientific writing 
 
 I am increasingly engaging in research work within scientometrics:  
 
+- 05.2025: A chapter about data curation in global repositories, published in *"Recommendations for Swiss Higher Education Institutions to enhance the visibility of their research output"* [PDF](https://doi.org/10.3929/ethz-b-000735240) 
 - 07.2023: *How important are international collaborations for research in Switzerland and the UK?* [Blog post](https://yearofscientometrics.ethz.ch/how-important-are-international-collaborations-for-research-in-switzerland-and-the-uk/) - a write-up of our article in "Qualität in der Wissenschaft" 01/2023 (contact me to get a copy of the original article in German)
 - 2023-...: every few months we publish a report about the project "Towards Open Bibliometric Indicators" (TOBI), which I'm a lead of. See on the [TOBI Website](https://eth-library.github.io/tobi/)
 
@@ -44,8 +43,67 @@ There is also a selection of my work in physics available online:
 - My [PhD Thesis](https://www.research-collection.ethz.ch/handle/20.500.11850/119948) is available through the Research Collection of ETH Zurich. Besides physics, the appendix discusses some of the limitations of PCA applied on noisy data, and shows dashboards for data quality monitoring in 2D experimental scans. 
 - In the ancient times (2003-2011) I used to be an author and editor of a leading Polish astronomy news platform, [AstroNET](https://news.astronet.pl/index.php/author/teresa-kubacka/) 
 
+For the full list of publications, consult my [ORCID Profile](https://orcid.org/0000-0002-0968-1311).
+
 ### Tutorials 
 I host a [blog with Python recipes](https://pythonviz.blog/) and an [awesome-matplotlib repository](https://github.com/paniterka/awesome-matplotlib/), where I collect useful snippets as well as longer-form tutorials. 
+
+
+## Data visualization 
+
+### Data stories 
+A selection of data stories:  
+
+- 12.2019: *Mount Mid-Life Crisis* [Medium / Towards Data Science](https://medium.com/data-science/frostbite-stories-part-1-mount-middle-life-crisis-97df574d58d7) - uncovering insights from the Himalayan Database 
+
+::: {style="display: flex; justify-content: center; align-items: center; gap: 1in; "}
+![](/img/dataviz/everest.png){height=1in group="my-gallery" .lightbox}
+![](/img/dataviz/everest2.png){height=1in group="my-gallery" .lightbox}
+![](/img/dataviz/everest3.png){height=1in group="my-gallery" .lightbox}
+![](/img/dataviz/everest4.png){height=1in group="my-gallery" .lightbox}
+:::
+
+- 12.2019: *A story told through a heatmap* [Kaggle](https://www.kaggle.com/code/tkubacka/a-story-told-through-a-heatmap/notebook) - Winner of the Kaggle 2019 Data Science Survey
+
+::: {style="display: flex; justify-content: center; align-items: center; gap: 1in; "}
+![](/img/dataviz/kaggle2.png){height=1in group="my-gallery" .lightbox}
+![](/img/dataviz/kaggle3.png){height=1in group="my-gallery" .lightbox}
+![](/img/dataviz/kaggle.png){height=1in group="my-gallery" .lightbox}
+:::
+
+- 10.2019: *Ironman World Championship: Game of skill - game of luck* [Self-hosted](https://ironmanbyluck.netlify.app/) - my experiment with clicky-scrolly form using a Makeover Monday dataset
+
+![](/img/dataviz/ironman.png){height=1in fig-align="center" group="my-gallery"}
+
+- 10.2019: *Top 20 CO2 polluters visualized* [Medium](https://towardsdatascience.com/the-top-20-co%E2%82%82-polluters-visualized-6a5fa435e108) - looking for patterns behind the emissions and revenues of companies identified by The Guardian as the biggest CO2 polluters 
+- 04.2019: *Beyond the bar plot: visualizing gender inequality in science* [Medium](https://medium.com/towards-data-science/beyond-the-bar-plot-visualizing-gender-inequality-in-science-7d77f5a01953) - a chart-makeover exercise. I have learned so much more about dataviz since then...  
+
+### Other visuals 
+
+Examples of other data visualization work 
+
+- 07.2025: *A 2-year retrospective into the open information landscape: Learnings from the TOBI project* [Scientific Poster, Zenodo](https://zenodo.org/records/15807578) 
+
+![](/img/dataviz/tobi_poster.png){height=1in fig-align="center" group="my-gallery"}
+
+- 07.2023: *How important are international collaborations for research in Switzerland and the UK?* [Swiss Year Of Scientometrics Blog](https://yearofscientometrics.ethz.ch/how-important-are-international-collaborations-for-research-in-switzerland-and-the-uk/) 
+
+::: {style="display: flex; justify-content: center; align-items: center; gap: 1in; "}
+![](/img/dataviz/syos_collabs.png){height=1in group="my-gallery" .lightbox}
+![](/img/dataviz/syos_collabs2.png){height=1in group="my-gallery" .lightbox}
+:::
+
+- 2010-2016: Selected scientific visuals from my [PhD Thesis](https://doi.org/10.3929/ethz-a-010700303) and [MSc Thesis](https://doi.org/10.5281/zenodo.19293252) 
+
+::: {style="display: flex; justify-content: center; align-items: center; gap: 1in; "}
+![](/img/dataviz/msc1.png){height=1in group="my-gallery" .lightbox}
+![](/img/dataviz/phd1a.png){height=1in group="my-gallery" .lightbox}
+![](/img/dataviz/phd2.png){height=1in group="my-gallery" .lightbox}
+![](/img/dataviz/phd3.png){height=1in group="my-gallery" .lightbox}
+![](/img/dataviz/phd4.png){height=1in group="my-gallery" .lightbox}
+:::
+
+
 
 ## Interviews 
 

@@ -79,7 +79,12 @@ li{
     margin-bottom: 0;
   }    
 
-.content a:not(.soundcloud) {
+.navbar .nav-item {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.content a:not(.soundcloud, .lightbox) {
 
     text-decoration: none;
     // text-decoration-color: $strong-highlight;

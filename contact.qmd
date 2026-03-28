@@ -11,7 +11,7 @@ For all the other inquiries, you can reach out to me via:
 <ul class='list-inline'>
     <li > <a href="mailto:info@teresa-kubacka.com" >{{< fa at >}}</a> </li>
     <li> <a href="https://www.linkedin.com/in/tkubacka/" >{{< fa brands linkedin-in >}}</a> </li>
-    <li> <a href="https://twitter.com/paniterka_ch" >{{< fa brands twitter >}}</a> </li>
+    <!-- <li> <a href="https://twitter.com/paniterka_ch" >{{< fa brands twitter >}}</a> </li> -->
 </ul>
 </div>
 
